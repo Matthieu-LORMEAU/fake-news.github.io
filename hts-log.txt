@@ -1,0 +1,48 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 19 Jan 2020 20:36:29 at localhost +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" localhost -O1 "C:\My Web Sites\[Matthieu Lormeau & Inès de Miguel] AI Fake News website copy" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:36:29	Warning: 	Note: due to localhost remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/ (see in the options to disable this)
+20:38:08	Warning: 	Moved Permanently for localhost/?p=14
+20:38:08	Warning: 	File has moved from localhost/?p=14 to http://localhost/2020/01/19/14/
+20:38:08	Warning: 	Moved Permanently for localhost/?p=17
+20:38:08	Warning: 	File has moved from localhost/?p=17 to http://localhost/2020/01/18/17/
+20:38:08	Warning: 	Moved Permanently for localhost/?p=15
+20:38:08	Warning: 	File has moved from localhost/?p=15 to http://localhost/2020/01/18/15/
+20:38:08	Warning: 	Moved Permanently for localhost/?p=27
+20:38:08	Warning: 	File has moved from localhost/?p=27 to http://localhost/2020/01/19/27/
+20:38:08	Warning: 	Moved Permanently for localhost/?p=37
+20:38:08	Warning: 	File has moved from localhost/?p=37 to http://localhost/2020/01/19/37/
+20:38:08	Warning: 	Moved Permanently for localhost/?p=29
+20:38:08	Warning: 	File has moved from localhost/?p=29 to http://localhost/2020/01/19/29/
+20:38:08	Warning: 	Moved Permanently for localhost/?p=38
+20:38:08	Warning: 	File has moved from localhost/?p=38 to http://localhost/2020/01/19/38/
+20:38:08	Warning: 	Moved Permanently for localhost/?p=28
+20:38:08	Warning: 	File has moved from localhost/?p=28 to http://localhost/2020/01/18/28/
+20:38:08	Warning: 	Moved Permanently for localhost/?p=34
+20:38:08	Warning: 	File has moved from localhost/?p=34 to http://localhost/2020/01/18/34/
+20:38:08	Warning: 	Moved Permanently for localhost/?p=32
+20:38:08	Warning: 	File has moved from localhost/?p=32 to http://localhost/2020/01/18/32/
+20:38:08	Warning: 	Moved Permanently for localhost/?p=31
+20:38:08	Warning: 	File has moved from localhost/?p=31 to http://localhost/2020/01/18/31/
+20:38:08	Warning: 	Moved Permanently for localhost/?p=39
+20:38:08	Warning: 	File has moved from localhost/?p=39 to http://localhost/2020/01/17/39/
+20:38:08	Warning: 	Moved Permanently for localhost/?p=35
+20:38:08	Warning: 	File has moved from localhost/?p=35 to http://localhost/2020/01/17/35/
+20:38:08	Warning: 	Moved Permanently for localhost/?p=30
+20:38:08	Warning: 	File has moved from localhost/?p=30 to http://localhost/2020/01/16/30/
+20:38:08	Warning: 	Moved Permanently for localhost/?p=16
+20:38:08	Warning: 	File has moved from localhost/?p=16 to http://localhost/2020/01/16/16/
+20:38:08	Warning: 	Moved Permanently for localhost/?p=26
+20:38:08	Warning: 	File has moved from localhost/?p=26 to http://localhost/2020/01/14/26/
+20:38:08	Warning: 	Moved Permanently for localhost/?p=33
+20:38:08	Warning: 	File has moved from localhost/?p=33 to http://localhost/2020/01/13/33/
+20:38:08	Warning: 	Moved Permanently for localhost/?p=36
+20:38:08	Warning: 	File has moved from localhost/?p=36 to http://localhost/2020/01/12/36/
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 44 seconds : 127 links scanned, 108 files written (2714820 bytes overall) [2770759 bytes received at 26641 bytes/sec], 5.2 requests per connection
+(No errors, 37 warnings, 0 messages)
